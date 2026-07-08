@@ -1,12 +1,10 @@
 <div align="center">
 
-# 徐文曜 · Wenyao Xu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=%E5%BE%90%E6%96%87%E6%9B%9C%20%C2%B7%20Wenyao%20Xu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E6%9E%84%E5%BB%BA%E5%8F%AF%E4%BF%A1%E7%9A%84%20AI%20%E7%B3%BB%E7%BB%9F%20%C2%B7%20Building%20trustworthy%20AI%20systems&descSize=16&descAlignY=58" width="100%" alt="banner"/>
 
-<br/>
-
-**构建可信的 AI 系统 · Building trustworthy AI systems**
-
-证伪优先 Agent · 可验证 RAG · Agent 记忆与规划 · MCP 开发者工具
+<a href="https://github.com/xiaweiyi713">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=2800&pause=700&center=true&vCenter=true&width=600&height=45&color=5A67D8&lines=%E8%AF%81%E4%BC%AA%E4%BC%98%E5%85%88%20Agent%20%C2%B7%20%E5%8F%AF%E9%AA%8C%E8%AF%81%20RAG%20%C2%B7%20MCP%20%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7;%E5%AE%81%E5%8F%AF%E8%AF%B4%E3%80%8C%E6%9F%A5%E4%B8%8D%E5%87%86%E3%80%8D%2C%E4%B9%9F%E4%B8%8D%E7%BC%96%E4%B8%80%E4%B8%AA%E7%AD%94%E6%A1%88;Verify%2C%20don%27t%20trust." alt="typing"/>
+</a>
 
 <br/>
 
@@ -60,5 +58,13 @@
 <br/>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaweiyi713/xiaweiyi713/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/xiaweiyi713/xiaweiyi713/output/github-snake.svg" alt="snake eating my contributions" />
+</picture>
+
 <sub>宁可说"查不准",也不乱指控 · <i>Verify, don't trust.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="footer"/>
 </div>
