@@ -9,6 +9,7 @@
 <br/>
 
 [![CiteGuard](https://img.shields.io/badge/CITEGUARD-证伪优先引用核验-1a7f37?style=for-the-badge)](https://github.com/xiaweiyi713/citeguard)
+[![PyPI](https://img.shields.io/pypi/v/citationguard?style=for-the-badge&label=PyPI&color=3775A9)](https://pypi.org/project/citationguard/)
 [![struct-viz](https://img.shields.io/badge/STRUCT--VIZ-408_算法可视化_⭐106-3178C6?style=for-the-badge)](https://github.com/xiaweiyi713/struct-viz)
 
 ![Profile views](https://komarev.com/ghpvc/?username=xiaweiyi713&style=flat&color=5A67D8)
@@ -17,7 +18,7 @@
 
 ---
 
-- 🔭 正在做 [**CiteGuard**](https://github.com/xiaweiyi713/citeguard) — AI 写作的"多疑审稿人",核验引用是否存在、元数据是否正确、是否真支持论点;可被 Claude Code / Codex / Cursor 以 **MCP 工具**直接调用
+- 🚢 [**CiteGuard**](https://github.com/xiaweiyi713/citeguard) **v0.1.0 已发布**(`pip install citationguard`)— AI 写作的"多疑审稿人",核验引用是否存在、元数据是否正确、是否真支持论点;可被 Claude Code / Codex / Cursor 以 **MCP 工具**直接调用
 - 🚀 [**FAR**](https://github.com/xiaweiyi713/FAR) 正朝论文推进 — 让 RAG Agent 主动追问"**什么证据能证明当前答案是错的**"
 - 🌱 持续打磨 [**VeraRAG**](https://github.com/xiaweiyi713/VeraRAG)(可验证 Agentic RAG,791 个测试)与 [**agentic-os-core**](https://github.com/xiaweiyi713/agentic-os-core)(零依赖的 Agent 记忆/规划引擎)
 - 💬 可以和我聊:**引用幻觉与核验、可验证 RAG、Agent 弃权设计、MCP 工具开发**
@@ -37,7 +38,7 @@
 
 | 项目 | 一句话 |
 |---|---|
-| 🔍 [**CiteGuard**](https://github.com/xiaweiyi713/citeguard) | 证伪优先的引用核验:存在性 / 元数据 / 论点支撑三重检查,MCP 接入主流 agent 客户端 |
+| 🔍 [**CiteGuard**](https://github.com/xiaweiyi713/citeguard) | 证伪优先的引用核验:存在性 / 元数据 / 论点支撑三重检查,MCP 接入主流 agent 客户端 · 已发布 [PyPI](https://pypi.org/project/citationguard/) |
 | 🧪 [**FAR**](https://github.com/xiaweiyi713/FAR) | 证伪引导检索,让语言 Agent 自我纠错(研究项目) |
 | ✅ [**VeraRAG**](https://github.com/xiaweiyi713/VeraRAG) | 可验证的 Agentic RAG 推理系统,每一步可审计 |
 | 📊 [**struct-viz**](https://github.com/xiaweiyi713/struct-viz) | 408 考研四科算法动画可视化平台 ⭐106 |
