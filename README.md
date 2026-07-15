@@ -12,11 +12,11 @@
 
 | Repository | Role | Purpose |
 | --- | --- | --- |
-| [`struct-viz`](https://github.com/xiaweiyi713/struct-viz) ![stars](https://img.shields.io/github/stars/xiaweiyi713/struct--viz?style=flat-square&label=%E2%98%85) | TEACH | 408 考研四科算法可视化:数据结构 · 组成原理 · 操作系统 · 计算机网络 |
+| [`struct-viz`](https://github.com/xiaweiyi713/struct-viz) ![stars](https://img.shields.io/github/stars/xiaweiyi713/struct-viz?style=flat-square&label=%E2%98%85) | TEACH | 408 考研四科算法可视化:数据结构 · 组成原理 · 操作系统 · 计算机网络 |
 | [`FAR`](https://github.com/xiaweiyi713/FAR) ![stars](https://img.shields.io/github/stars/xiaweiyi713/FAR?style=flat-square&label=%E2%98%85) | RETRIEVE | 面向自我纠错语言智能体的类型化证伪引导检索 |
 | [`VeraRAG`](https://github.com/xiaweiyi713/VeraRAG) ![stars](https://img.shields.io/github/stars/xiaweiyi713/VeraRAG?style=flat-square&label=%E2%98%85) | VERIFY | 可验证的智能体检索增强推理系统 |
 | [`citeguard`](https://github.com/xiaweiyi713/citeguard) ![stars](https://img.shields.io/github/stars/xiaweiyi713/citeguard?style=flat-square&label=%E2%98%85) | CITE | 证伪优先的引用核验:存在性 · 元数据 · 论点支撑三重检查 |
-| [`agentic-os-core`](https://github.com/xiaweiyi713/agentic-os-core) ![stars](https://img.shields.io/github/stars/xiaweiyi713/agentic--os--core?style=flat-square&label=%E2%98%85) | PLAN | 面向 AI 智能体的图记忆与 MCTS 规划引擎,零依赖 |
+| [`agentic-os-core`](https://github.com/xiaweiyi713/agentic-os-core) ![stars](https://img.shields.io/github/stars/xiaweiyi713/agentic-os-core?style=flat-square&label=%E2%98%85) | PLAN | 面向 AI 智能体的图记忆与 MCTS 规划引擎,零依赖 |
 
 ## Closed-loop architecture
 
