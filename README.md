@@ -17,6 +17,7 @@
 | [`VeraRAG`](https://github.com/xiaweiyi713/VeraRAG) ![stars](https://img.shields.io/github/stars/xiaweiyi713/VeraRAG?style=flat-square&label=%E2%98%85) | VERIFY | 可验证的智能体检索增强推理系统 |
 | [`citeguard`](https://github.com/xiaweiyi713/citeguard) ![stars](https://img.shields.io/github/stars/xiaweiyi713/citeguard?style=flat-square&label=%E2%98%85) | CITE | 证伪优先的引用核验:存在性 · 元数据 · 论点支撑三重检查 |
 | [`agentic-os-core`](https://github.com/xiaweiyi713/agentic-os-core) ![stars](https://img.shields.io/github/stars/xiaweiyi713/agentic-os-core?style=flat-square&label=%E2%98%85) | PLAN | 面向 AI 智能体的图记忆与 MCTS 规划引擎,零依赖 |
+| [`CartCompass`](https://github.com/xiaweiyi713/CartCompass) ![stars](https://img.shields.io/github/stars/xiaweiyi713/CartCompass?style=flat-square&label=%E2%98%85) | APPLY | 基于 RAG 的多模态电商导购智能体(原生 iOS \+ FastAPI) |
 
 ## Closed-loop architecture
 
@@ -29,11 +30,10 @@
 ## Module registry
 
 <details>
-<summary><strong>Applied agents</strong> · 2 modules</summary>
+<summary><strong>Applied agents</strong> · 1 modules</summary>
 
 | Module | Purpose |
 | --- | --- |
-| [`CartCompass`](https://github.com/xiaweiyi713/CartCompass) | 基于 RAG 的多模态电商导购智能体(原生 iOS \+ FastAPI) |
 | [`MailAI`](https://github.com/xiaweiyi713/MailAI) | 接入多 LLM 的智能邮件管理 App(SwiftUI · iOS 17) |
 
 </details>
